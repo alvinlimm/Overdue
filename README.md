@@ -24,12 +24,12 @@ This project showcases a Power BI dashboard that analyzes **purchase order deliv
 
 ---
 
-## 📊 Key Dashboard Visuals
-- 🟦 **Card**: Total number of overdue POs
-- 📉 **Line Chart**: Monthly average delay trend
-- 📊 **Bar Chart**: Overdue POs by supplier
-- 🥧 **Pie Chart**: On-time vs Overdue rate
-- 🧾 **Table**: Detailed PO-level breakdown with delay flags
+## Key Dashboard Visuals
+- **Card**: Total number of overdue POs
+- **Line Chart**: Monthly average delay trend
+- **Bar Chart**: Overdue POs by supplier
+- **Pie Chart**: On-time vs Overdue rate
+- **Table**: Detailed PO-level breakdown with delay flags
 
 ---
 
